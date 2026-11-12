@@ -16,22 +16,22 @@ An Ignition Perspective demo for a simulated utility water transfer station. It 
 
 The water transfer circuit, Pump-01 controls, and live instrumentation.
 
-![Station overview with pump controls and live OPC UA telemetry](media/scada-1-overview.png)
+![Station overview with pump controls and live OPC UA telemetry](SCADA1.png)
 
 ### 2. Alarm management
 
 Current alarm status and historical events, including high vibration, overcurrent, and fault-imminent alarms.
 
-![Pump-01 alarm status and history](media/scada-2-alarms.png)
+![Pump-01 alarm status and history](scada2.png)
 
 ### 3. Maintenance work orders
 
 Manual and automatic orders with inspection results and completion status.
 
-![Work order creation, completion, and register](media/scada-3-work-orders.png)
+![Work order creation, completion, and register](scada3.png)
 
 ### 4. Event timeline
 
 A chronological log of equipment states, communications, operator actions, and maintenance activity.
 
-![Station event timeline](media/scada-4-event-timeline.png)
+![Station event timeline](SCADA4.png)
