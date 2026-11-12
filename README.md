@@ -2,7 +2,7 @@
 
 An Ignition Perspective demo for a simulated utility water transfer station. It shows how operators monitor Pump-01, respond to alarms, and follow a developing fault through to a maintenance work order.
 
-**[Watch or download the SCADA demo (MP4)](media/scada-system-demo.mp4)**
+**[Watch or download the SCADA demo (MP4)](SCADA-System-Demo.mp4)**
 
 ## Architecture
 
